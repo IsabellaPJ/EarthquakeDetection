@@ -1,3 +1,3 @@
 # EarthquakeDetection
 
-Streamlit Deployment: https://isabellapj-earthquakedetection-stream-2l6lt2.streamlit.app/
+Streamlit Deployment: https://isabellapj-earthquakedetection-stream-a8aqbq.streamlit.app/
